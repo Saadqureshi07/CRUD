@@ -1,25 +1,25 @@
 const product =[
   {
     id:0,
-    image:'shoes.jpg',
+    image:'images/shoes.jpg',
     title:'AirJordan',
     price:900,
   },
   {
     id:1,
-    image:'ferrari.jpeg',
+    image:'images/ferrari.jpeg',
     title:'Perfume',
     price:500,
   },
   {
     id:2,
-    image:'Tissot.jpeg',
+    image:'images/Tissot.jpeg',
     title:'Tissot',
     price:3000,
   },
   {
     id:3,
-    image:'wallet.jpeg',
+    image:'images/Wallet.jpeg',
     title:'Gucci',
     price:750,
   }
